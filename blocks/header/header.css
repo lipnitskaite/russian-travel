@@ -1,5 +1,7 @@
 .header {
+  max-width: 1184px;
   min-height: 52px;
+  margin: 0 auto;
   padding: 28px 48px;
   display: flex;
   flex-wrap: wrap;

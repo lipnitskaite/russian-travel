@@ -1,8 +1,12 @@
 .header__lang-link {
-  margin: 18px;
+  margin-right: 18px;
   font-size: 24px;
   line-height: 1.2;
   font-weight: 400;
   text-decoration: none;
   color: #fff;
 }
+
+/* .header__lang-link:last-of-type {
+  margin-right: 0;
+} */
