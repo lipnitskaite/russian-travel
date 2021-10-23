@@ -1,0 +1,9 @@
+.intro__list-item {
+  font-size: 12px;
+  font-weight: 400px;
+  padding-bottom: 6px;
+}
+
+.intro__list-item:last-of-type {
+  padding-bottom: 0;
+}
