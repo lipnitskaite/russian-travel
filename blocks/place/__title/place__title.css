@@ -6,3 +6,10 @@
   font-weight: 900;
   align-self: flex-end;
 }
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 1.09;
+  }
+}
