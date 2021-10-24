@@ -1,9 +1,8 @@
-.header {
+.footer {
   width: 100%;
   max-width: 1184px;
-  min-height: 52px;
+  padding: 92px 48px 0 48px;
   margin: 0 auto;
-  padding: 0 48px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
