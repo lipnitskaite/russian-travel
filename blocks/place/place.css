@@ -7,3 +7,11 @@
   grid-template-rows: 152px 1fr;
   grid-gap: 48px 40px;
 }
+
+@media screen and (max-width: 1024px) {
+  .place {
+    max-width: 928px;
+    grid-gap: 48px 32px;
+    grid-template-columns: 440px 1fr;
+  }
+}

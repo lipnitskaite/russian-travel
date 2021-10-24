@@ -3,7 +3,13 @@
   display: flex;
   justify-content: center;
   max-width: 1184px;
-  /* min-height: 62.5vw; */
   min-height: 740px;
   margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    max-width: 100vw;
+    min-height: 62.5vw;
+  }
 }
