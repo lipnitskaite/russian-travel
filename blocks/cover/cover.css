@@ -1,0 +1,9 @@
+.cover {
+  background: url(../../images/cover-trains.jpg) center center/cover no-repeat;
+  display: flex;
+  justify-content: center;
+  max-width: 1184px;
+  /* min-height: 62.5vw; */
+  min-height: 740px;
+  margin: 0 auto;
+}
