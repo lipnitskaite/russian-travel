@@ -8,9 +8,27 @@
   line-height: 1.05;
 }
 
+@media screen and (max-width: 690px) {
+  .lead__title {
+    max-width: 90%;
+    font-size: 70px;
+    line-height: 1.1;
+    padding-bottom: 28px;
+  }
+}
+
+@media screen and (max-width: 510px) {
+  .lead__title {
+    max-width: 90%;
+    font-size: 45px;
+    line-height: 1.1;
+    padding-bottom: 24px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .lead__title {
-    max-width: 288px;
+    max-width: 90%;
     font-size: 40px;
     line-height: 1.1;
     padding-bottom: 16px;

@@ -8,6 +8,21 @@
   text-align: center;
 }
 
+@media screen and (max-width: 1024px) {
+  .lead__subtitle {
+    padding-bottom: 56px;
+  }
+}
+
+
+@media screen and (max-width: 510px) {
+  .lead__subtitle {
+    max-width: 90%;
+    font-size: 22px;
+    padding-bottom: 50px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .lead__subtitle {
     max-width: 288px;
