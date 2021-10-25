@@ -8,3 +8,12 @@
   text-align: center;
   position: relative;
 }
+
+@media screen and (max-width: 320px) {
+  .cover__title  {
+    font-size: 32px;
+    max-width: 288px;
+    line-height: 1.09;
+    margin: 0 auto 16px auto;
+  }
+}

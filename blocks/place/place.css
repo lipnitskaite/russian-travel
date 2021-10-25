@@ -23,3 +23,12 @@
     padding-bottom: 72px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .place {
+    max-width: 320px;
+    padding-bottom: 50px;
+    row-gap: 32px;
+    grid-template-columns: fit-content(320px);
+  }
+}

@@ -5,3 +5,10 @@
   align-items: flex-start;
   justify-content: flex-end;
 }
+
+@media screen and (max-width: 320px) {
+  .place__website {
+    grid-row: 2;
+    padding: 0 16px 0 16px;
+  }
+}
