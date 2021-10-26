@@ -1,7 +1,7 @@
 .intro {
   margin: 0 auto;
   max-width: 984px;
-  padding-bottom: 92px;
+  padding-bottom: 7.2%;
 }
 
 @media screen and (max-width: 1024px) {
@@ -13,27 +13,18 @@
 @media screen and (max-width: 950px) {
   .intro {
     max-width: 90%;
-    padding: 0 24px 88px 24px;
+    padding: 0 2.5% 9.3% 2.5%;
   }
 }
 
 @media screen and (max-width: 768px) {
   .intro {
-    max-width: 720px;
-    padding: 0 24px 88px 24px;
-  }
-}
-
-@media screen and (max-width: 690px) {
-  .intro {
-    max-width: 93%;
-    padding: 0 20px 76px 20px;
+    padding: 0 3.1% 11.5% 3.1%;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro {
-    max-width: 288px;
-    padding: 0 16px 64px 16px;
+    padding: 0 5% 20% 5%;
   }
 }
