@@ -6,21 +6,7 @@
   font-weight: 900;
 }
 
-@media screen and (max-width: 510px) {
-  .intro__title {
-    max-width: 90%;
-    font-size: 45px;
-  }
-}
-
-@media screen and (max-width: 360px) {
-  .intro__title {
-    max-width: 90%;
-    font-size: 40px;
-  }
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .intro__title {
     max-width: 85%;
     font-size: 32px;

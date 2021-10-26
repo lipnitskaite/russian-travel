@@ -1,7 +1,7 @@
 .lead {
   max-width: 984px;
   margin: 0 auto;
-  padding: 56px 0 92px 0;
+  padding: 56px 48px 0 48px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -9,28 +9,9 @@
   justify-content: center;
 }
 
-@media screen and (max-width: 1024px) {
-  .lead {
-    max-width: 928px;
-  }
-}
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .lead {
     width: 100vw;
-    padding: 48px 0 88px 0;
-  }
-}
-
-@media screen and (max-width: 550px) {
-  .lead {
-    width: 100vw;
-    padding: 48px 0 80px 0;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .lead {
-    padding: 48px 0 64px 0;
+    padding: 48px 0 0 0;
   }
 }

@@ -49,3 +49,11 @@
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+
+/* Mix */
+@import url(../blocks/page/__lead/page__lead.css);
+@import url(../blocks/page/__intro/page__intro.css);
+@import url(../blocks/page/__photo-grid/page__photo-grid.css);
+@import url(../blocks/page/__place/page__place.css);
+@import url(../blocks/page/__cover/page__cover.css);
+
