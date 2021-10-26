@@ -13,7 +13,7 @@
 
 ### Демонстрация лендинга
 
-[https://lipnitskaite.github.io/russian-travel/]
+https://lipnitskaite.github.io/russian-travel/
 
 
 ### Используемые технологии
