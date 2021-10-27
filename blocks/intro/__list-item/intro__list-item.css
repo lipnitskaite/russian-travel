@@ -2,6 +2,7 @@
   font-size: 12px;
   font-weight: 400;
   padding-bottom: 6px;
+  line-height: 1.5;
 }
 
 .intro__list-item:last-of-type {

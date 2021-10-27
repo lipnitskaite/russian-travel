@@ -2,14 +2,26 @@
   margin-bottom: 80px;
 }
 
+.page__place:last-of-type {
+  margin-bottom: 0;
+}
+
 @media screen and (max-width: 1023px) {
   .page__place {
     margin-bottom: 72px;
+  }
+
+  .page__place:last-of-type {
+    margin-bottom: 0;
   }
 }
 
 @media screen and (max-width: 767px) {
   .page__place {
     margin-bottom: 50px;
+  }
+  
+  .page__place:last-of-type {
+    margin-bottom: 0;
   }
 }

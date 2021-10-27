@@ -6,6 +6,7 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/header/__lang/header__lang.css);
+@import url(../blocks/header/__list-item/header__list-item.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
@@ -47,6 +48,7 @@
 /* Footer Section */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__list-item/footer__list-item.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
@@ -54,6 +56,7 @@
 @import url(../blocks/page/__lead/page__lead.css);
 @import url(../blocks/page/__intro/page__intro.css);
 @import url(../blocks/page/__photo-grid/page__photo-grid.css);
+@import url(../blocks/page/__places/page__places.css);
 @import url(../blocks/page/__place/page__place.css);
 @import url(../blocks/page/__cover/page__cover.css);
 
